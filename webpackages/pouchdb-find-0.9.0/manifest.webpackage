@@ -1,0 +1,36 @@
+{
+    "name": "pouchdb-find-0.9.0",
+    "groupId": "",
+    "version": "1.1.0",
+    "modelVersion": "9.1.0",
+    "docType": "webpackage",
+    "author": {
+        "name": "Philipp Wagner",
+        "email": "philipp.wagner@incowia.com"
+    },
+    "license": "MIT",
+    "keywords": [
+        "library",
+        "pouchdb",
+        "pouchdb-find",
+        "3rd-party"
+    ],
+    "man": [
+        "https://github.com/nolanlawson/pouchdb-find"
+    ],
+    "runnables": [],
+    "artifacts": {
+        "utilities": [
+            {
+                "artifactId": "pouchdb-find",
+                "description": "Wrapper for pouchdb-find plugin",
+                "resources": [
+                    {
+                        "prod": "pouchdb-find.min.html",
+                        "dev": "pouchdb-find.html"
+                    }
+                ]
+            }
+        ]
+    }
+}
