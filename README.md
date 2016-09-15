@@ -1,4 +1,11 @@
 ## pouchdb-find-wrapper
 
 <hr/>
-Note This page is generated based on the markdown-syntax. For details see <http://daringfireball.net/projects/markdown/syntax/>
+Wrapper of pouchdb-find library for usage in cubbles.
+
+***
+
+Origin Library:
+> pouchdb-find: Easy-to-use query language for PouchDB. 
+
+See: [pouchdb-find](https://github.com/nolanlawson/pouchdb-find)
